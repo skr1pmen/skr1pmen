@@ -1,8 +1,8 @@
 ![Header](https://github.com/skr1pmen/skr1pmen/blob/main/assets/header.png)
 
-## Hi, my name is Sergey. I'm 22. And I'm a programmer and web-designer.
+## Hi, my name is Sergey. I'm 22. And I'm a programmer and web-designer. #
 
-## Languages and Tools
+### Languages and Tools #
 ![Python](https://img.shields.io/badge/Python-181a1b?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/HTML-181a1b?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-181a1b?style=for-the-badge&logo=css3)
@@ -18,3 +18,8 @@
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-181a1b?style=for-the-badge&logo=PHPStorm)
 ![WebStorm](https://img.shields.io/badge/WebStorm-181a1b?style=for-the-badge&logo=WebStorm)
 ![GoLand](https://img.shields.io/badge/GoLand-181a1b?style=for-the-badge&logo=GoLand)
+
+### Follow Me
+
+[![YouTube](https://img.shields.io/badge/YouTube-181a1b?style=for-the-badge&logo=YouTube)](https://www.youtube.com/skr1pmen)
+[![VKontakte](https://img.shields.io/badge/VKontakte-181a1b?style=for-the-badge&logo=vk)](https://vk.com/skr1pmen)
